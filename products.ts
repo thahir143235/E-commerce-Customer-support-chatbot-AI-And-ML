@@ -1,0 +1,42 @@
+export const featuredProducts = [
+  {
+    id: 1,
+    name: "Ultra Laptop Pro",
+    description: "High-performance laptop for work, coding, and gaming.",
+    price: 129599,
+    image: "/laptop1.jpg",
+    category: "Laptop",
+  },
+  {
+    id: 2,
+    name: "Smartphone X",
+    description: "Latest generation smartphone with powerful camera.",
+    price: 40899,
+    image: "/smartphone X.jpg",
+    category: "Mobile",
+  },
+  {
+    id: 3,
+    name: "Wireless Headphones",
+    description: "Noise-cancelling headphones with long battery life.",
+    price: 24999,
+    image: "/headphones1.jpg",
+    category: "Accessories",
+  },
+  {
+    id: 4,
+    name: "Gaming Laptop",
+    description: "High-end gaming laptop with dedicated graphics card.",
+    price: 159009,
+    image: "/gaming-laptop.jpg",
+    category: "Laptop",
+  },
+  {
+    id: 5,
+    name: "Smart Watch",
+    description: "Track fitness, health, and notifications on the go.",
+    price: 2849,
+    image: "/watch.jpg",
+    category: "Accessories",
+  },
+];
